@@ -140,4 +140,4 @@ With great power comes great responsibility!
 Before submitting your post, please ensure:
 - There are no typos or grammar errors.
 - The job post complies with our [guidelines](https://github.com/ddnb/career-engineers#job-description-format).
-- [Submit New Job](https://github.com/ddnb/vietnam-engineers/issues/new).
+- [Submit New Job](https://github.com/ddnb/career-engineers/issues/new/choose).
