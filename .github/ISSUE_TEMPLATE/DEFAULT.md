@@ -1,5 +1,5 @@
 ---
-name: NEW JOB
+name: NEW JOB (Default)
 about: New job posting template
 title: "[Company Name] - [Job Title] - [Location] - [Job Type]"
 labels: "new"

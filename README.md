@@ -1,4 +1,4 @@
-# Vietnam Careers Job Posting Guidelines
+# Career Engineers Job Posting Guidelines
 
 ## **Important Notice**
 Before posting any job, please read these guidelines **CAREFULLY**. Posts that do not adhere to these guidelines **will not be accepted**.
@@ -44,8 +44,8 @@ We accept job posts for the following technologies:
 
 We are also open to considering other stacks not listed above.
 
-## **How to Submit a Job Post?**
-[![Submit New Job](./img/submit-button.png)](https://github.com/ddnb/vietnam-engineers/issues/new). 
+## **How to Submit New Job?**
+[![Submit New Job](./img/submit-button.png)](https://github.com/ddnb/vietnam-engineers/issues/new) 
 
 1. Right-click **Submit New Job** and open the link in a new tab.
 2. After submission, your job post will be temporarily closed for review and reopened once approved.
@@ -138,6 +138,6 @@ With great power comes great responsibility!
 
 Before submitting your post, please ensure:
 - There are no typos or grammar errors.
-- The job post complies with our [guidelines](https://github.com/ddnb/vietnam-engineers#job-description-format).
+- The job post complies with our [guidelines](https://github.com/ddnb/career-engineers#job-description-format).
 - [Submit a GitHub issue ticket](https://github.com/ddnb/vietnam-engineers/issues/new).
 
