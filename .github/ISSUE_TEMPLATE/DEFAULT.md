@@ -1,6 +1,6 @@
 ---
-name: NEW JOB (Default)
-about: New job posting template
+name: Submit New Job (English)
+about: New job posting template in English
 title: "[Company Name] - [Job Title] - [Location] - [Job Type]"
 labels: "new"
 assignees: ''

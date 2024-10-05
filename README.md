@@ -45,7 +45,7 @@ We accept job posts for the following technologies:
 We are also open to considering other stacks not listed above.
 
 ## **How to Submit New Job?**
-[![Submit New Job](./img/submit-button.png)](https://github.com/ddnb/vietnam-engineers/issues/new) 
+[![Submit New Job](./img/submit-button.png)](https://github.com/ddnb/career-engineers/issues/new?assignees=&labels=new&projects=&template=DEFAULT.md&title=%5BCompany+Name%5D+-+%5BJob+Title%5D+-+%5BLocation%5D+-+%5BJob+Type%5D) 
 
 1. Right-click **Submit New Job** and open the link in a new tab.
 2. After submission, your job post will be temporarily closed for review and reopened once approved.
