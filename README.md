@@ -3,11 +3,12 @@
 ## **Important Notice**
 Before posting any job, please read these guidelines **CAREFULLY**. Posts that do not adhere to these guidelines **will not be accepted**.
 
-## **About Vietnam Careers**
+## **About Career Engineers**
 
-![Career Engineer](https://ddnbgroup.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2024/10/05203421/happy-cat-v3.gif)
+![Happy Happy Nyan](https://ddnbgroup.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2024/10/05203421/happy-cat-v3.gif)
 
-Career Engineer is a community-driven job board connecting top developers with the best companies in Vietnam and around the world. Our goal is to support the success of both companies and job seekers by maintaining high-quality job postings that reflect our commitment to the IT community.
+Career Engineers is a community-driven job board connecting top developers with the best companies in Vietnam and around the world. 
+Our goal is to support the success of both companies and job seekers by maintaining high-quality job postings that reflect our commitment to the IT community.
 
 ## **Recruitment Requirements**
 We believe that **reputable companies create strong job posts**. Therefore, we require **HR representatives** (_not recruitment agencies_) to comply with our strict guidelines. Non-compliant posts will be **removed within 2 days**.
@@ -60,7 +61,7 @@ All job posts **MUST** be in **English** and follow the format rules below:
 [Company Name] - [Job Title] - [Location] - [Job Type]
 
 **Example:**  
-Google Japan - Software Engineer Manager - Remote/Tokyo - Fulltime
+Google Japan - Software Engineer Manager - Tokyo - Fulltime
 
 - `[Job Type]` options:
   - FT (Full Time)
@@ -139,5 +140,4 @@ With great power comes great responsibility!
 Before submitting your post, please ensure:
 - There are no typos or grammar errors.
 - The job post complies with our [guidelines](https://github.com/ddnb/career-engineers#job-description-format).
-- [Submit a GitHub issue ticket](https://github.com/ddnb/vietnam-engineers/issues/new).
-
+- [Submit New Job](https://github.com/ddnb/vietnam-engineers/issues/new).
