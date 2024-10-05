@@ -1,3 +1,12 @@
+---
+name: NEW JOB
+about: New job posting template
+title: "[Company Name] - [Job Title] - [Location] - [Job Type]"
+labels: "new"
+assignees: ''
+projects: "Opensource"
+---
+
 ## Location (MUST)
 
 * Tokyo, Japan

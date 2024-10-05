@@ -5,9 +5,9 @@ Before posting any job, please read these guidelines **CAREFULLY**. Posts that d
 
 ## **About Vietnam Careers**
 
-![Vietnam Careers](https://ddnbgroup.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2024/10/05203421/happy-cat-v3.gif)
+![Career Engineer](https://ddnbgroup.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2024/10/05203421/happy-cat-v3.gif)
 
-Vietnam Careers is a community-driven job board connecting top developers with the best companies in Vietnam and around the world. Our goal is to support the success of both companies and job seekers by maintaining high-quality job postings that reflect our commitment to the IT community.
+Career Engineer is a community-driven job board connecting top developers with the best companies in Vietnam and around the world. Our goal is to support the success of both companies and job seekers by maintaining high-quality job postings that reflect our commitment to the IT community.
 
 ## **Recruitment Requirements**
 We believe that **reputable companies create strong job posts**. Therefore, we require **HR representatives** (_not recruitment agencies_) to comply with our strict guidelines. Non-compliant posts will be **removed within 2 days**.
@@ -45,7 +45,9 @@ We accept job posts for the following technologies:
 We are also open to considering other stacks not listed above.
 
 ## **How to Submit a Job Post?**
-1. [Submit a GitHub issue ticket](https://github.com/ddnb/vietnam-engineers/issues/new).
+[![Submit New Job](./img/submit-button.png)](https://github.com/ddnb/vietnam-engineers/issues/new). 
+
+1. Right-click **Submit New Job** and open the link in a new tab.
 2. After submission, your job post will be temporarily closed for review and reopened once approved.
 
 ## **Job Post Duration**
@@ -137,4 +139,5 @@ With great power comes great responsibility!
 Before submitting your post, please ensure:
 - There are no typos or grammar errors.
 - The job post complies with our [guidelines](https://github.com/ddnb/vietnam-engineers#job-description-format).
+- [Submit a GitHub issue ticket](https://github.com/ddnb/vietnam-engineers/issues/new).
 
