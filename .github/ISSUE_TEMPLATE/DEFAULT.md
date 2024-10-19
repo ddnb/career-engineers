@@ -2,18 +2,18 @@
 name: Submit New Job (English)
 about: New job posting template in English
 title: "[Company Name] - [Job Title] - [Location] - [Job Type]"
-labels: "new"
+labels: "new, English"
 assignees: ''
 projects: "Opensource"
 ---
 
 ## Location (MUST)
 
-* Tokyo, Japan
+* Las Vegas Nevada, USA
 
 ## Salary Expectation (MUST)
 
-* $5,000/month or thereabouts
+* ~ $100,000/year or thereabouts
 
 ## Requirements (MUST)
 
